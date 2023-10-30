@@ -2,7 +2,8 @@
 - فواز محمد غالب عبدالغني
 - 👀 I’m interested in auto maintenance, computer programing, android Devloper and electronic maintenance
 - 🌱 I’m currently learning flutter
-- C# 
+- C#
+- Flutter
 - ASP.Net
 - Sketshware
 - 💞️ I’m looking to collaborate on ...
